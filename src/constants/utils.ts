@@ -32,15 +32,15 @@ export const PROJECTS = [
 		thumbnail: '/assets/projects/ss-roadmap.png',
 	},
 	{
-		title: 'Humann Blogs',
-		desc: 'Lorem ipsum dolor, sit amet consectetur adipisicing elit. Perferendis dignissimos quod rem rerum iste quas, debitis esse. Amet, itaque quam?',
+		title: 'Career Guide',
+		desc: '',
 		link: 'https://humann.in/',
-		thumbnail: '/assets/projects/humann-blog.jpeg',
+		thumbnail: '/assets/projects/ss-guide.png',
 	},
 	{
-		title: 'RoamReady - Travel Companion',
-		desc: 'Lorem ipsum dolor, sit amet consectetur adipisicing elit. Perferendis dignissimos quod rem rerum iste quas, debitis esse. Amet, itaque quam?',
-		link: 'https://roamreadytrips.netlify.app/',
+		title: 'Case Study -Career Path Feature',
+		desc: '',
+		link: 'https://www.figma.com/design/vWVGhlBxiuKAYedIl1jIFv/HIRELY.AI?node-id=56-2&p=f',
 		thumbnail: '/assets/projects/roamready.jpeg',
 	},
 ];
