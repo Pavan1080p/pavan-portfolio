@@ -41,7 +41,7 @@ export const PROJECTS = [
 		title: 'Case Study -Career Path Feature',
 		desc: '',
 		link: 'https://www.figma.com/design/vWVGhlBxiuKAYedIl1jIFv/HIRELY.AI?node-id=56-2&p=f',
-		thumbnail: '/assets/projects/roamready.jpeg',
+		thumbnail: '/assets/projects/storifal.jpeg',
 	},
 ];
 
